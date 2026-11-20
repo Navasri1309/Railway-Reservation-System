@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No: 212225230196
-# Name: NAVASRI B
-# Date: 20/11/2026
+## Reg No: 212225230196
+## Name: NAVASRI B
+## Date: 20/11/2026
 
 
 # AIM:
